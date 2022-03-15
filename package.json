@@ -1,0 +1,19 @@
+{
+  "name": "demo-npm",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ciaossuiam/test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeeCW<isee0525@gmail.com>",
+  "license": "ISC"
+}
